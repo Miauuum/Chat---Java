@@ -1,5 +1,5 @@
 # Chat---Java
-Trabalho de Faculdade, chat de conversa feito em JAVA
+Trabalho de Faculdade: DESENVOLVIMENTO DE UMA FERRAMENTA DE COMUNICAÇÃO EM REDE UTILIZANDO PROTOCOLO TCP/IP
 
 Olá , 
 
